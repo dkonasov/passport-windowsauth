@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "passport": "~0.1.15",
-    "ldapjs": "~1.0.0"
+    "ldapjs": "dkonasov/node-ldapjs#a9a3e972bb744cf255f849ec0ef81554ac01b8c7"
   },
   "devDependencies": {
     "chai": "~1.5.0",
